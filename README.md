@@ -1,5 +1,5 @@
-# Author Uneet Patel
-# e-mail : 2015csb1038@iitrpr.ac.in
+# Author: Uneet Patel
+# e-mail: 2015csb1038@iitrpr.ac.in
 
 README
 -------------
